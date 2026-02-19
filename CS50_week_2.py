@@ -1,4 +1,5 @@
 # loops:--
+#(revising loops with cs50p)
 
 # while loop:-
 # i = 3
@@ -120,5 +121,6 @@ def main():
 def print_square(size):
     for i in range(size):
         print("#" * size)
+
 
 main()
