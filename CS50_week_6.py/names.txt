@@ -1,0 +1,4 @@
+ronHermioneHarryRonRontechHarry/nRon/nHermione/nHermione
+Harry
+& C:\Users\HP\AppData\Local\Programs\Python\Python313\python.exe c:/Users/HP/OneDrive/Documents/Vscode/lecture_6.py
+Ron
