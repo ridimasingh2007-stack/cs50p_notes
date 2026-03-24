@@ -1,4 +1,9 @@
-ronHermioneHarryRonRontechHarry/nRon/nHermione/nHermione
+RonHermioneHarryDraco
+Ron
+Hermione
 Harry
-& C:\Users\HP\AppData\Local\Programs\Python\Python313\python.exe c:/Users/HP/OneDrive/Documents/Vscode/lecture_6.py
+Draco
+Draco
+Harry
+Hermione
 Ron
